@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 560" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1220" height="560" fill="#0f172a"/>
+  <rect x="0" y="0" width="1220" height="56" fill="#020617"/>
+  <text x="24" y="34" fill="#ffffff" font-size="18" font-weight="bold">Operations Workspace</text>
+  <text x="430" y="33" fill="#e2e8f0" font-size="13">Tickets</text>
+  <text x="500" y="33" fill="#e2e8f0" font-size="13">Dashboard</text>
+  <rect x="580" y="14" width="80" height="28" rx="6" fill="#2563eb"/>
+  <text x="596" y="33" fill="#ffffff" font-size="13" font-weight="600">Archive</text>
+  <text x="682" y="33" fill="#e2e8f0" font-size="13">Summary</text>
+  <text x="766" y="33" fill="#e2e8f0" font-size="13">Equipment</text>
+  <text x="860" y="33" fill="#e2e8f0" font-size="13">Carriers</text>
+
+  <text x="24" y="90" fill="#e2e8f0" font-size="22" font-weight="bold">Archive — change history</text>
+  <text x="24" y="112" fill="#94a3b8" font-size="13">Shows the last change to each record (who and when), newest first.</text>
+
+  <!-- tabs -->
+  <rect x="24" y="130" width="110" height="34" rx="8" fill="#2563eb"/>
+  <text x="52" y="152" fill="#ffffff" font-size="13" font-weight="700">Equipment</text>
+  <rect x="140" y="130" width="100" height="34" rx="8" fill="#1e293b" stroke="#334155"/>
+  <text x="164" y="152" fill="#e2e8f0" font-size="13" font-weight="700">Tickets</text>
+
+  <!-- table -->
+  <rect x="24" y="178" width="1172" height="358" rx="10" fill="#1e293b" stroke="#334155"/>
+
+  <text x="44" y="204" fill="#64748b" font-size="10">DEVICE ID</text>
+  <text x="220" y="204" fill="#64748b" font-size="10">STATUS</text>
+  <text x="420" y="204" fill="#64748b" font-size="10">CARRIER</text>
+  <text x="700" y="204" fill="#64748b" font-size="10">CHANGED BY</text>
+  <text x="960" y="204" fill="#64748b" font-size="10">WHEN</text>
+  <line x1="24" y1="214" x2="1196" y2="214" stroke="#334155"/>
+
+  <text x="44" y="244" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <rect x="220" y="228" width="70" height="20" rx="10" fill="#14532d"/>
+  <text x="230" y="242" fill="#bbf7d0" font-size="10">Assigned</text>
+  <text x="420" y="244" fill="#e2e8f0" font-size="12">Carrier A</text>
+  <text x="700" y="244" fill="#93c5fd" font-size="12">[sample user]</text>
+  <text x="960" y="244" fill="#94a3b8" font-size="12">[sample date]</text>
+  <line x1="24" y1="262" x2="1196" y2="262" stroke="#334155"/>
+
+  <text x="44" y="292" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <rect x="220" y="276" width="94" height="20" rx="10" fill="#78350f"/>
+  <text x="230" y="290" fill="#fde68a" font-size="10">Under review</text>
+  <text x="420" y="292" fill="#e2e8f0" font-size="12">Carrier A</text>
+  <text x="700" y="292" fill="#93c5fd" font-size="12">[sample user]</text>
+  <text x="960" y="292" fill="#94a3b8" font-size="12">[sample date]</text>
+  <line x1="24" y1="310" x2="1196" y2="310" stroke="#334155"/>
+
+  <text x="44" y="340" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <rect x="220" y="324" width="70" height="20" rx="10" fill="#14532d"/>
+  <text x="230" y="338" fill="#bbf7d0" font-size="10">Assigned</text>
+  <text x="420" y="340" fill="#e2e8f0" font-size="12">Carrier B</text>
+  <text x="700" y="340" fill="#93c5fd" font-size="12">[sample user]</text>
+  <text x="960" y="340" fill="#94a3b8" font-size="12">[sample date]</text>
+  <line x1="24" y1="358" x2="1196" y2="358" stroke="#334155"/>
+
+  <text x="44" y="388" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <rect x="220" y="372" width="70" height="20" rx="10" fill="#7f1d1d"/>
+  <text x="230" y="386" fill="#fecaca" font-size="10">Under review</text>
+  <text x="420" y="388" fill="#e2e8f0" font-size="12">Warehouse</text>
+  <text x="700" y="388" fill="#93c5fd" font-size="12">[sample user]</text>
+  <text x="960" y="388" fill="#94a3b8" font-size="12">[sample date]</text>
+
+  <text x="24" y="546" fill="#475569" font-size="10">Reconstructed interface preview — fabricated data</text>
+</svg>

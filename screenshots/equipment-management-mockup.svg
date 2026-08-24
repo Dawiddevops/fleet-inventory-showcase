@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 700" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1220" height="700" fill="#0f172a"/>
+  <rect x="0" y="0" width="1220" height="56" fill="#020617"/>
+  <text x="24" y="34" fill="#ffffff" font-size="18" font-weight="bold">Operations Workspace</text>
+  <text x="430" y="33" fill="#e2e8f0" font-size="13">Tickets</text>
+  <text x="500" y="33" fill="#e2e8f0" font-size="13">Dashboard</text>
+  <text x="590" y="33" fill="#e2e8f0" font-size="13">Archive</text>
+  <text x="662" y="33" fill="#e2e8f0" font-size="13">Summary</text>
+  <rect x="746" y="14" width="102" height="28" rx="6" fill="#2563eb"/>
+  <text x="762" y="33" fill="#ffffff" font-size="13" font-weight="600">Equipment</text>
+  <text x="864" y="33" fill="#e2e8f0" font-size="13">Carriers</text>
+
+  <text x="24" y="90" fill="#e2e8f0" font-size="22" font-weight="bold">Equipment Editor</text>
+  <text x="24" y="112" fill="#94a3b8" font-size="13">Select an item from the list, review and correct its data (tag, serial number, unique number/IMEI, and other fields)</text>
+
+  <rect x="24" y="130" width="300" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="36" y="150" fill="#64748b" font-size="12">Search: tag, model, serial number…</text>
+
+  <rect x="336" y="130" width="140" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="348" y="150" fill="#94a3b8" font-size="12">Sort ▾</text>
+
+  <rect x="488" y="130" width="140" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="500" y="150" fill="#94a3b8" font-size="12">Status ▾</text>
+
+  <rect x="1076" y="130" width="120" height="30" rx="8" fill="#2563eb"/>
+  <text x="1090" y="150" fill="#ffffff" font-size="12" font-weight="600">+ New item</text>
+
+  <!-- list -->
+  <rect x="24" y="176" width="400" height="480" rx="8" fill="#1e293b" stroke="#334155"/>
+  <rect x="24" y="176" width="4" height="66" fill="#2563eb"/>
+  <text x="40" y="200" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <text x="340" y="200" fill="#4ade80" font-size="11" font-weight="700">Assigned</text>
+  <text x="40" y="218" fill="#94a3b8" font-size="11">Tablet model A · Carrier A</text>
+  <line x1="24" y1="242" x2="424" y2="242" stroke="#334155"/>
+
+  <text x="40" y="266" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <text x="330" y="266" fill="#fbbf24" font-size="11" font-weight="700">Under review</text>
+  <text x="40" y="284" fill="#94a3b8" font-size="11">Printer model A · Carrier A</text>
+  <line x1="24" y1="308" x2="424" y2="308" stroke="#334155"/>
+
+  <text x="40" y="332" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <text x="340" y="332" fill="#4ade80" font-size="11" font-weight="700">Assigned</text>
+  <text x="40" y="350" fill="#94a3b8" font-size="11">Tablet model A · Carrier B</text>
+  <line x1="24" y1="374" x2="424" y2="374" stroke="#334155"/>
+
+  <text x="40" y="398" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <text x="320" y="398" fill="#f87171" font-size="11" font-weight="700">Unavailable</text>
+  <text x="40" y="416" fill="#94a3b8" font-size="11">Printer model A · Carrier B</text>
+  <line x1="24" y1="440" x2="424" y2="440" stroke="#334155"/>
+
+  <text x="40" y="464" fill="#e2e8f0" font-size="13" font-weight="700">[sample device]</text>
+  <text x="330" y="464" fill="#94a3b8" font-size="11" font-weight="700">Available</text>
+  <text x="40" y="482" fill="#94a3b8" font-size="11">Tablet model B · Warehouse</text>
+
+  <text x="40" y="516" fill="#64748b" font-size="11">Additional inventory records</text>
+
+  <!-- edit card -->
+  <rect x="444" y="176" width="752" height="480" rx="10" fill="#1e293b" stroke="#334155"/>
+  <text x="466" y="204" fill="#e2e8f0" font-size="15" font-weight="700">[sample device]</text>
+
+  <text x="466" y="230" fill="#94a3b8" font-size="10">TAG</text>
+  <rect x="466" y="236" width="330" height="26" rx="6" fill="#0f172a" stroke="#2563eb"/>
+  <text x="476" y="253" fill="#e2e8f0" font-size="12">[sample device]</text>
+  <text x="820" y="230" fill="#94a3b8" font-size="10">EQUIPMENT TYPE</text>
+  <rect x="820" y="236" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="253" fill="#e2e8f0" font-size="12">Tablet</text>
+
+  <text x="466" y="282" fill="#94a3b8" font-size="10">MODEL</text>
+  <rect x="466" y="288" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="305" fill="#e2e8f0" font-size="12">Tablet model A</text>
+  <text x="820" y="282" fill="#94a3b8" font-size="10">SERIAL NUMBER (SN)</text>
+  <rect x="820" y="288" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="305" fill="#e2e8f0" font-size="12">[fabricated serial]</text>
+
+  <text x="466" y="334" fill="#94a3b8" font-size="10">UNIQUE NUMBER / IMEI</text>
+  <rect x="466" y="340" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="357" fill="#e2e8f0" font-size="12">[fabricated device ID]</text>
+  <text x="820" y="334" fill="#94a3b8" font-size="10">SIM / PHONE</text>
+  <rect x="820" y="340" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="357" fill="#e2e8f0" font-size="12">[fabricated phone]</text>
+
+  <text x="466" y="386" fill="#94a3b8" font-size="10">CARRIER</text>
+  <rect x="466" y="392" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="409" fill="#e2e8f0" font-size="12">Carrier A</text>
+  <text x="820" y="386" fill="#94a3b8" font-size="10">EQUIPMENT STATUS</text>
+  <rect x="820" y="392" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="409" fill="#e2e8f0" font-size="12">Assigned</text>
+
+  <text x="466" y="438" fill="#94a3b8" font-size="10">NOTES</text>
+  <rect x="466" y="444" width="684" height="60" rx="6" fill="#0f172a" stroke="#334155"/>
+
+  <rect x="466" y="530" width="150" height="34" rx="8" fill="#2563eb"/>
+  <text x="490" y="552" fill="#ffffff" font-size="12" font-weight="600">Save changes</text>
+
+  <rect x="1046" y="530" width="150" height="34" rx="8" fill="#dc2626"/>
+  <text x="1086" y="552" fill="#ffffff" font-size="12" font-weight="600">Delete</text>
+
+  <text x="466" y="600" fill="#475569" font-size="10">Reconstructed interface preview — fabricated data</text>
+</svg>

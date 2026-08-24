@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 660" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1220" height="660" fill="#0f172a"/>
+  <rect x="0" y="0" width="1220" height="56" fill="#020617"/>
+  <text x="24" y="34" fill="#ffffff" font-size="18" font-weight="bold">Operations Workspace</text>
+  <text x="430" y="33" fill="#e2e8f0" font-size="13">Tickets</text>
+  <text x="500" y="33" fill="#e2e8f0" font-size="13">Dashboard</text>
+  <text x="590" y="33" fill="#e2e8f0" font-size="13">Archive</text>
+  <text x="662" y="33" fill="#e2e8f0" font-size="13">Summary</text>
+  <text x="746" y="33" fill="#e2e8f0" font-size="13">Equipment</text>
+  <rect x="838" y="14" width="90" height="28" rx="6" fill="#2563eb"/>
+  <text x="854" y="33" fill="#ffffff" font-size="13" font-weight="600">Carriers</text>
+
+  <text x="24" y="90" fill="#e2e8f0" font-size="22" font-weight="bold">Carrier Editor</text>
+  <text x="24" y="112" fill="#94a3b8" font-size="13">Active and inactive partners</text>
+
+  <rect x="24" y="130" width="260" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="36" y="150" fill="#64748b" font-size="12">Search carrier…</text>
+
+  <rect x="296" y="130" width="140" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="308" y="150" fill="#94a3b8" font-size="12">Active only</text>
+
+  <rect x="1076" y="130" width="120" height="30" rx="8" fill="#2563eb"/>
+  <text x="1090" y="150" fill="#ffffff" font-size="12" font-weight="600">+ New carrier</text>
+
+  <!-- list -->
+  <rect x="24" y="176" width="400" height="424" rx="8" fill="#1e293b" stroke="#334155"/>
+  <rect x="24" y="176" width="4" height="60" fill="#2563eb"/>
+  <text x="40" y="198" fill="#e2e8f0" font-size="13" font-weight="700">Carrier A</text>
+  <text x="40" y="214" fill="#94a3b8" font-size="11">Branch A · Regional location</text>
+  <line x1="24" y1="236" x2="424" y2="236" stroke="#334155"/>
+
+  <text x="40" y="258" fill="#e2e8f0" font-size="13" font-weight="700">Carrier A</text>
+  <text x="40" y="274" fill="#94a3b8" font-size="11">Branch B · Regional location</text>
+  <line x1="24" y1="296" x2="424" y2="296" stroke="#334155"/>
+
+  <text x="40" y="318" fill="#e2e8f0" font-size="13" font-weight="700">Carrier A</text>
+  <text x="40" y="334" fill="#94a3b8" font-size="11">Branch C · Regional location</text>
+  <line x1="24" y1="356" x2="424" y2="356" stroke="#334155"/>
+
+  <text x="40" y="378" fill="#e2e8f0" font-size="13" font-weight="700">Carrier B</text>
+  <text x="40" y="394" fill="#94a3b8" font-size="11">Branch: — · Regional location</text>
+  <line x1="24" y1="416" x2="424" y2="416" stroke="#334155"/>
+
+  <text x="40" y="438" fill="#e2e8f0" font-size="13" font-weight="700">Carrier C</text>
+  <text x="330" y="438" fill="#f87171" font-size="11" font-weight="700">Inactive</text>
+  <text x="40" y="454" fill="#94a3b8" font-size="11">Branch: — · Regional location</text>
+
+  <text x="40" y="484" fill="#64748b" font-size="11">Additional partner records</text>
+
+  <!-- edit card -->
+  <rect x="444" y="176" width="752" height="424" rx="10" fill="#1e293b" stroke="#334155"/>
+  <text x="466" y="204" fill="#e2e8f0" font-size="15" font-weight="700">Carrier A — Branch A</text>
+
+  <text x="466" y="230" fill="#94a3b8" font-size="10">CARRIER NAME</text>
+  <rect x="466" y="236" width="330" height="26" rx="6" fill="#0f172a" stroke="#2563eb"/>
+  <text x="476" y="253" fill="#e2e8f0" font-size="12">Carrier A</text>
+  <text x="820" y="230" fill="#94a3b8" font-size="10">BRANCH CODE</text>
+  <rect x="820" y="236" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="253" fill="#e2e8f0" font-size="12">Branch A</text>
+
+  <text x="466" y="282" fill="#94a3b8" font-size="10">CITY</text>
+  <rect x="466" y="288" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="305" fill="#e2e8f0" font-size="12">[fabricated city]</text>
+  <text x="820" y="282" fill="#94a3b8" font-size="10">STREET</text>
+  <rect x="820" y="288" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="305" fill="#e2e8f0" font-size="12">[fabricated address]</text>
+
+  <text x="466" y="334" fill="#94a3b8" font-size="10">EMAIL</text>
+  <rect x="466" y="340" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="357" fill="#e2e8f0" font-size="12">[fabricated email]</text>
+  <text x="820" y="334" fill="#94a3b8" font-size="10">PHONE</text>
+  <rect x="820" y="340" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="357" fill="#e2e8f0" font-size="12">[fabricated phone]</text>
+
+  <text x="466" y="386" fill="#94a3b8" font-size="10">ACTIVE</text>
+  <rect x="466" y="392" width="80" height="26" rx="13" fill="#14532d"/>
+  <text x="480" y="409" fill="#bbf7d0" font-size="11" font-weight="700">Yes</text>
+
+  <rect x="466" y="440" width="150" height="34" rx="8" fill="#2563eb"/>
+  <text x="490" y="462" fill="#ffffff" font-size="12" font-weight="600">Save changes</text>
+
+  <rect x="1046" y="440" width="150" height="34" rx="8" fill="#dc2626"/>
+  <text x="1086" y="462" fill="#ffffff" font-size="12" font-weight="600">Delete</text>
+
+  <text x="466" y="500" fill="#64748b" font-size="11">Partner locations can be grouped for summary views.</text>
+  <text x="466" y="548" fill="#475569" font-size="10">Reconstructed layout — generic placeholder content</text>
+</svg>

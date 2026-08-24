@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 700" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1220" height="700" fill="#0f172a"/>
+  <rect x="0" y="0" width="1220" height="56" fill="#020617"/>
+  <text x="24" y="34" fill="#ffffff" font-size="18" font-weight="bold">Operations Workspace</text>
+  <text x="430" y="33" fill="#e2e8f0" font-size="13">Tickets</text>
+  <text x="500" y="33" fill="#e2e8f0" font-size="13">Dashboard</text>
+  <text x="590" y="33" fill="#e2e8f0" font-size="13">Archive</text>
+  <rect x="660" y="14" width="94" height="28" rx="6" fill="#2563eb"/>
+  <text x="674" y="33" fill="#ffffff" font-size="13" font-weight="600">Summary</text>
+  <text x="770" y="33" fill="#e2e8f0" font-size="13">Equipment</text>
+  <text x="864" y="33" fill="#e2e8f0" font-size="13">Carriers</text>
+
+  <text x="24" y="90" fill="#e2e8f0" font-size="22" font-weight="bold">Equipment Summary</text>
+  <text x="24" y="112" fill="#94a3b8" font-size="13">Select a carrier to view its equipment and prepare an export</text>
+
+  <!-- filter row -->
+  <text x="24" y="146" fill="#e2e8f0" font-size="13" font-weight="600">Carrier:</text>
+  <rect x="90" y="126" width="220" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="102" y="146" fill="#e2e8f0" font-size="13">Carrier A ▾</text>
+
+  <text x="336" y="146" fill="#e2e8f0" font-size="13" font-weight="600">Status:</text>
+  <rect x="392" y="126" width="170" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="404" y="146" fill="#94a3b8" font-size="13">All statuses</text>
+
+  <text x="582" y="146" fill="#e2e8f0" font-size="13" font-weight="600">Category:</text>
+  <rect x="654" y="126" width="170" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+  <text x="666" y="146" fill="#e2e8f0" font-size="13">Tablet</text>
+
+  <text x="850" y="146" fill="#93c5fd" font-size="12">✕ Clear</text>
+
+  <text x="24" y="178" fill="#64748b" font-size="11">Carrier A has multiple locations — this summary groups related equipment</text>
+
+  <!-- counters -->
+  <rect x="24" y="190" width="1172" height="46" rx="8" fill="#1e293b" stroke="#334155"/>
+  <text x="44" y="218" fill="#e2e8f0" font-size="14" font-weight="600">Equipment: [count]</text>
+  <text x="330" y="218" fill="#e2e8f0" font-size="14" font-weight="600">Category A: [count]</text>
+  <text x="616" y="218" fill="#e2e8f0" font-size="14" font-weight="600">Category B: [count]</text>
+  <text x="902" y="218" fill="#e2e8f0" font-size="14" font-weight="600">Pairs: [count]</text>
+
+  <!-- equipment list -->
+  <rect x="24" y="254" width="400" height="380" rx="8" fill="#1e293b" stroke="#334155"/>
+  <rect x="24" y="254" width="4" height="76" fill="#2563eb"/>
+  <text x="40" y="280" fill="#e2e8f0" font-weight="700" font-size="13">[sample device]</text>
+  <text x="40" y="298" fill="#94a3b8" font-size="11">Tablet model A · Carrier A · Assigned</text>
+  <text x="40" y="316" fill="#64748b" font-size="10">SIM: [fabricated]</text>
+  <line x1="24" y1="330" x2="424" y2="330" stroke="#334155"/>
+
+  <text x="40" y="356" fill="#e2e8f0" font-weight="700" font-size="13">[sample device]</text>
+  <text x="40" y="374" fill="#94a3b8" font-size="11">Tablet model A · Carrier A — Branch B · Assigned</text>
+  <text x="40" y="392" fill="#64748b" font-size="10">SIM: [fabricated]</text>
+  <line x1="24" y1="406" x2="424" y2="406" stroke="#334155"/>
+
+  <text x="40" y="432" fill="#e2e8f0" font-weight="700" font-size="13">[sample device]</text>
+  <text x="40" y="450" fill="#94a3b8" font-size="11">Tablet model A · Carrier A — Branch C · Assigned</text>
+  <text x="40" y="468" fill="#64748b" font-size="10">SIM: [fabricated]</text>
+  <line x1="24" y1="482" x2="424" y2="482" stroke="#334155"/>
+
+  <text x="40" y="508" fill="#e2e8f0" font-weight="700" font-size="13">[sample device]</text>
+  <text x="40" y="526" fill="#94a3b8" font-size="11">Tablet model B · Carrier A · Assigned</text>
+  <text x="40" y="544" fill="#64748b" font-size="10">SIM: —</text>
+
+  <text x="40" y="572" fill="#64748b" font-size="11">Additional equipment records</text>
+
+  <!-- edit card -->
+  <rect x="444" y="254" width="752" height="380" rx="10" fill="#1e293b" stroke="#334155"/>
+  <text x="466" y="282" fill="#e2e8f0" font-size="15" font-weight="700">Selected — [sample device]</text>
+
+  <text x="466" y="308" fill="#94a3b8" font-size="10">TAG</text>
+  <rect x="466" y="314" width="330" height="26" rx="6" fill="#0f172a" stroke="#2563eb"/>
+  <text x="476" y="331" fill="#e2e8f0" font-size="12">[sample device]</text>
+  <text x="820" y="308" fill="#94a3b8" font-size="10">EQUIPMENT TYPE</text>
+  <rect x="820" y="314" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="331" fill="#e2e8f0" font-size="12">Tablet</text>
+
+  <text x="466" y="360" fill="#94a3b8" font-size="10">MODEL</text>
+  <rect x="466" y="366" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="383" fill="#e2e8f0" font-size="12">Tablet model A</text>
+  <text x="820" y="360" fill="#94a3b8" font-size="10">SERIAL NUMBER (SN)</text>
+  <rect x="820" y="366" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="383" fill="#e2e8f0" font-size="12">[fabricated serial]</text>
+
+  <text x="466" y="412" fill="#94a3b8" font-size="10">UNIQUE NUMBER / IMEI</text>
+  <rect x="466" y="418" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="435" fill="#e2e8f0" font-size="12">[fabricated device ID]</text>
+  <text x="820" y="412" fill="#94a3b8" font-size="10">SIM / PHONE</text>
+  <rect x="820" y="418" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="435" fill="#e2e8f0" font-size="12">[fabricated phone]</text>
+
+  <text x="466" y="464" fill="#94a3b8" font-size="10">CARRIER</text>
+  <rect x="466" y="470" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="476" y="487" fill="#e2e8f0" font-size="12">Carrier A</text>
+  <text x="820" y="464" fill="#94a3b8" font-size="10">EQUIPMENT STATUS</text>
+  <rect x="820" y="470" width="330" height="26" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="830" y="487" fill="#e2e8f0" font-size="12">Assigned</text>
+
+  <text x="466" y="516" fill="#94a3b8" font-size="10">NOTES</text>
+  <rect x="466" y="522" width="684" height="30" rx="6" fill="#0f172a" stroke="#334155"/>
+
+  <rect x="466" y="576" width="150" height="34" rx="8" fill="#2563eb"/>
+  <text x="490" y="598" fill="#ffffff" font-size="12" font-weight="600">Save changes</text>
+
+  <!-- print buttons -->
+  <rect x="866" y="576" width="180" height="34" rx="8" fill="#dc2626"/>
+  <text x="884" y="598" fill="#ffffff" font-size="12" font-weight="600">Print service report</text>
+  <rect x="1056" y="576" width="140" height="34" rx="8" fill="#2563eb"/>
+  <text x="1096" y="598" fill="#ffffff" font-size="12" font-weight="600">Print</text>
+
+  <text x="466" y="618" fill="#475569" font-size="10">Reconstructed interface preview — fabricated data</text>
+</svg>
